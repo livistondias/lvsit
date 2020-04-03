@@ -1,0 +1,10 @@
+C:\Users\0402451\source\repos\CreateProcessRemote\CreateProcessRemote\bin\Debug\CreateProcessRemote.exe.config
+C:\Users\0402451\source\repos\CreateProcessRemote\CreateProcessRemote\bin\Debug\CreateProcessRemote.exe
+C:\Users\0402451\source\repos\CreateProcessRemote\CreateProcessRemote\bin\Debug\CreateProcessRemote.pdb
+C:\Users\0402451\source\repos\CreateProcessRemote\CreateProcessRemote\obj\Debug\CreateProcessRemote.csprojAssemblyReference.cache
+C:\Users\0402451\source\repos\CreateProcessRemote\CreateProcessRemote\obj\Debug\CreateProcessRemote.FrmCreateProcessRemote.resources
+C:\Users\0402451\source\repos\CreateProcessRemote\CreateProcessRemote\obj\Debug\CreateProcessRemote.Properties.Resources.resources
+C:\Users\0402451\source\repos\CreateProcessRemote\CreateProcessRemote\obj\Debug\CreateProcessRemote.csproj.GenerateResource.cache
+C:\Users\0402451\source\repos\CreateProcessRemote\CreateProcessRemote\obj\Debug\CreateProcessRemote.csproj.CoreCompileInputs.cache
+C:\Users\0402451\source\repos\CreateProcessRemote\CreateProcessRemote\obj\Debug\CreateProcessRemote.exe
+C:\Users\0402451\source\repos\CreateProcessRemote\CreateProcessRemote\obj\Debug\CreateProcessRemote.pdb

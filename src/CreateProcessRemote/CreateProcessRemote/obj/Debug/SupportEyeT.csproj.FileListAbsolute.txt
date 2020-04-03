@@ -1,0 +1,10 @@
+C:\Users\0402451\source\repos\SupportEyeT\SupportEyeT\bin\Debug\SupportEyeT.exe.config
+C:\Users\0402451\source\repos\SupportEyeT\SupportEyeT\bin\Debug\SupportEyeT.exe
+C:\Users\0402451\source\repos\SupportEyeT\SupportEyeT\bin\Debug\SupportEyeT.pdb
+C:\Users\0402451\source\repos\SupportEyeT\SupportEyeT\obj\Debug\SupportEyeT.csprojAssemblyReference.cache
+C:\Users\0402451\source\repos\SupportEyeT\SupportEyeT\obj\Debug\SupportEyeT.FrmSupportEyet.resources
+C:\Users\0402451\source\repos\SupportEyeT\SupportEyeT\obj\Debug\SupportEyeT.Properties.Resources.resources
+C:\Users\0402451\source\repos\SupportEyeT\SupportEyeT\obj\Debug\SupportEyeT.csproj.GenerateResource.cache
+C:\Users\0402451\source\repos\SupportEyeT\SupportEyeT\obj\Debug\SupportEyeT.csproj.CoreCompileInputs.cache
+C:\Users\0402451\source\repos\SupportEyeT\SupportEyeT\obj\Debug\SupportEyeT.exe
+C:\Users\0402451\source\repos\SupportEyeT\SupportEyeT\obj\Debug\SupportEyeT.pdb

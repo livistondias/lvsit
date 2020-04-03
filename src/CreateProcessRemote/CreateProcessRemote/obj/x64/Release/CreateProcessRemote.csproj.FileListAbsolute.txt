@@ -1,0 +1,9 @@
+C:\Users\0402451\source\repos\CreateProcessRemote\CreateProcessRemote\bin\x64\Release\CreateProcessRemote.exe.config
+C:\Users\0402451\source\repos\CreateProcessRemote\CreateProcessRemote\bin\x64\Release\CreateProcessRemote.exe
+C:\Users\0402451\source\repos\CreateProcessRemote\CreateProcessRemote\bin\x64\Release\CreateProcessRemote.pdb
+C:\Users\0402451\source\repos\CreateProcessRemote\CreateProcessRemote\obj\x64\Release\CreateProcessRemote.FrmCreateProcessRemote.resources
+C:\Users\0402451\source\repos\CreateProcessRemote\CreateProcessRemote\obj\x64\Release\CreateProcessRemote.Properties.Resources.resources
+C:\Users\0402451\source\repos\CreateProcessRemote\CreateProcessRemote\obj\x64\Release\CreateProcessRemote.csproj.GenerateResource.cache
+C:\Users\0402451\source\repos\CreateProcessRemote\CreateProcessRemote\obj\x64\Release\CreateProcessRemote.exe
+C:\Users\0402451\source\repos\CreateProcessRemote\CreateProcessRemote\obj\x64\Release\CreateProcessRemote.pdb
+C:\Users\0402451\source\repos\CreateProcessRemote\CreateProcessRemote\obj\x64\Release\CreateProcessRemote.csprojAssemblyReference.cache
